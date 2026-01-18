@@ -9,5 +9,3 @@ Follow these steps to set it up:
 ### Step 1: Copy the template
 Run this in the project root:
 
-```bash
-cp .env.example .env
